@@ -6,3 +6,6 @@
 
 
 [ссылка на коммит задание 2](https://github.com/MindMaze74/dz1_git/blob/master/.gitignore)
+
+
+[ссылка на коммит задание 3](https://github.com/MindMaze74/dz1_git/network)
