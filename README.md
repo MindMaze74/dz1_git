@@ -10,7 +10,9 @@
 
 [ссылка на коммит задание 3](https://github.com/MindMaze74/dz1_git/network)
 
- не работает https://github.com/MindMaze74/dz1_git/network граф
+
+[ссылка на коммит задание 4](https://github.com/MindMaze74/dz1_git/network) не работает граф  не обновляеться
+
 git log --oneline --graph --all --decorate
 *   d08baa3 (HEAD -> master, origin/master, origin/HEAD) Задание 4 - попытка номер 2
 |\  
